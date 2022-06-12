@@ -68,9 +68,9 @@
 * **git branch `New_name`** - Команда позволяет добавить новую ветку дерева.
 >PS C:\Users\evgen\Desktop\ДЗ\Homework Version Control 2> <span style="color:yellow;">git</span> branch new_name
 * **git merge** - Команда для слияния каких либо веток в ту, в которой вы находитесь в данный момент.
-
-* **git reset --hard `Name`~1** - Команда которая удаляет последний коммит и возвращает вас на то место где начинался предыдущий коммит.
-
+>PS C:\Users\evgen\Desktop\ДЗ\Homework Version Control 2> <span style="color:yellow;">git</span> merge lists
+* **git reset --hard HEAD~1** - Команда которая удаляет последний коммит и возвращает вас на то место где начинался предыдущий коммит.
+>PS C:\Users\evgen\Desktop\ДЗ\Homework Version Control 2> <span style="color:yellow;">git</span> reset --hard HEAD~1
 ---
 ## Ошибка Команды MERGE
 
